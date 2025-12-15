@@ -41,7 +41,9 @@ export default function Hero() {
       <a
         href="/HEMAND PP.pdf"
         download
-        className=" gap-2 bg-purple-900/30 hover:bg-purple-800 border border-purple-700/50 text-purple-300 hover:text-white m-3 px-6 py-4 rounded-full font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-purple-500/50">
+        target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 m-6 rounded-full font-semibold text-lg transition-all duration-300  hover:shadow-lg hover:shadow-purple-500/50">
         Download Resume
       </a>
           </div>
