@@ -27,7 +27,7 @@ const projects = [
     description:
       "Plant care app providing plant identification, care tips, and watering reminders. Features a user-friendly interface and a plant database.",
     image: "p3.jpeg",
-    github: "#",
+    github: "https://github.com/hemandhp/java-fullstack/blob/main/HTML/plant.html",
     demo: "#",
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     description:
       "A simple and intuitive to-do list application that allows users to create, and manage their tasks efficiently with a clean user interface.",
     image: "todolist.png",
-    github: "#",
+    github: "https://github.com/hemandhp/java-fullstack/tree/main/JavaScript/Todolist-app",
     demo: "#",
   },
 ]
