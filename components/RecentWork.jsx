@@ -18,7 +18,7 @@ const projects = [
     description:
       "Recipes and cooking blog platform with user-generated content, recipe ratings, and social sharing features.",
     image: "p2.png",
-    github: "#",
+    github: "https://github.com/hemandhp/java-fullstack/blob/main/Bootstrap/Bootstrap-project2.html",
     demo: "#",
   },
   {
