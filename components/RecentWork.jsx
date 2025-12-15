@@ -88,13 +88,7 @@ export default function RecentWork() {
                     <FaGithub size={20} />
                     <span>Code</span>
                   </a>
-                  <a
-                    href={project.demo}
-                    className="flex items-center gap-2 bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/50"
-                  >
-                    <FaExternalLinkAlt size={18} />
-                    <span>Live Demo</span>
-                  </a>
+                 
                 </div>
               </div>
             </div>
