@@ -5,21 +5,23 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa"
 const projects = [
   {
     id: 1,
-    title: "Responsive Dashboard",
+     title: "Movement Studios",
     description:
-      "Responsive dashboard application with real-time data visualization. Features interactive charts, user authentication, and customizable widgets.",
-    image: "p1.png",
-    github: "https://github.com/hemandhp/html_example/blob/874ded8fa6b6cb24565c73f2d529d8768cf9783b/amnimation-site/dashboard.html",
+      "A modern and responsive website for a fitness studio, showcasing classes, trainers, and membership options with an engaging design.",
+    image: "movement studio.png",
+    github: "https://github.com/hemandhp/java-fullstack/tree/main/html_project",
     demo: "#",
+    
   },
   {
     id: 2,
-    title: "Double C&B",
+    title: "Portfolio Website",
     description:
-      "Recipes and cooking blog platform with user-generated content, recipe ratings, and social sharing features.",
-    image: "p2.png",
-    github: "https://github.com/hemandhp/java-fullstack/blob/main/Bootstrap/Bootstrap-project2.html",
+      "A personal portfolio website to showcase projects, skills, and experience. Features a modern design, responsive layout, and contact form.",
+    image: "portfolio.png",
+    github: "https://github.com/hemandhp/portfolio",
     demo: "#",
+    
   },
   {
     id: 3,
@@ -37,6 +39,24 @@ const projects = [
       "A simple and intuitive to-do list application that allows users to create, and manage their tasks efficiently with a clean user interface.",
     image: "todolist.png",
     github: "https://github.com/hemandhp/java-fullstack/tree/main/JavaScript/Todolist-app",
+    demo: "#",
+  },
+  {
+    id: 5,
+    title: "Responsive Dashboard",
+    description:
+      "Responsive dashboard application with real-time data visualization. Features interactive charts, user authentication, and customizable widgets.",
+    image: "p1.png",
+    github: "https://github.com/hemandhp/html_example/blob/874ded8fa6b6cb24565c73f2d529d8768cf9783b/amnimation-site/dashboard.html",
+    demo: "#",
+  },
+  {
+    id: 6,
+    title: "Double C&B",
+    description:
+      "Recipes and cooking blog platform with user-generated content, recipe ratings, and social sharing features.",
+    image: "p2.png",
+    github: "https://github.com/hemandhp/java-fullstack/blob/main/Bootstrap/Bootstrap-project2.html",
     demo: "#",
   },
 ]
